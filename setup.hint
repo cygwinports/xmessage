@@ -1,4 +1,4 @@
 category: X11
-requires: cygwin libX11_6 libXaw8 libXt6
-sdesc: "Xorg message displayer"
-ldesc: "Xorg message displayer"
+requires: cygwin libX11_6 libXaw7 libXt6
+sdesc: "X.Org message displayer"
+ldesc: "X.Org message displayer"
