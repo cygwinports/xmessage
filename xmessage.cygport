@@ -1,0 +1,11 @@
+inherit xorg
+
+NAME="xmessage"
+VERSION=1.0.4
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X message displayer"
+DESCRIPTION="The xmessage program displays a window containing a message from
+the command line, a file, or standard input.  The program is typically used by
+shell scripts to display information to the user or to ask the user to make a
+choice."
